@@ -52,7 +52,7 @@
 
 ## 🚀 Projetos Relevantes
 
-- **[PromptMarket](https://github.com/diegocp05/PromptMarket)**  
+- **[PromptMarket](https://github.com/diegocp05/prompt-marketplace)**  
   Marketplace de prompts de IA com **Next.js, TypeScript e PostgreSQL**.  
   🔑 Autenticação, painel administrativo e integração de pagamentos via Stripe.
 
