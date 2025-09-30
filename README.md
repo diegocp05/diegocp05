@@ -3,7 +3,7 @@
 </a>
 
 <h2 align="center">
-  Olá, eu sou o Diego Costa! 👋
+  Olá, eu sou Diego Costa! 👋
 </h2>
 
 <h3 align="center">
