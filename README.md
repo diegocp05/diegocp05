@@ -60,11 +60,8 @@
   Dashboard financeiro completo com **Next.js, Prisma e PostgreSQL**.  
   📊 Relatórios interativos, simulações financeiras e previsões baseadas em histórico.
 
-- **[Portfólio Pessoal](https://portfolio-diegocp.vercel.app/)**  
-  Site responsivo com **Next.js e TailwindCSS**.  
-  🎨 Apresentação profissional dos meus projetos.
-
----
+- **[EcoWise]([https://github.com/diegocp05/ecoWise](https://eco-wise-h28r6jtfb-diegos-projects-9360246e.vercel.app/))** Dashboard ambiental interativo com **Next.js, Node.js e PostgreSQL**.  
+  📊 Dados em tempo real (Clima, Poluição), `💯` Algoritmo EcoScore exclusivo, `🗺️` Mapa Interativo e Rankings.
 
 ## 📊 Estatísticas do GitHub
 
