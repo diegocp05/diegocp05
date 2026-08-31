@@ -52,7 +52,7 @@
 
 ## 🚀 Projetos em Destaque
 
-- **[MediBridge (MedFila)](https://github.com/diegocp05/MedFila)**  
+- **[MedFila](https://github.com/diegocp05/MedFila)**  
   Sistema completo de **Gestão Hospitalar e Triagem Inteligente** desenvolvido com **React, Node.js e PostgreSQL**.  
   🏥 Apresenta painel de autoatendimento, fila conectada com **WebSockets** (atualização e áudio em tempo real) para TVs, interface clínica completa para evolução de prontuários e controle de rotas por perfis de acesso (RBAC).
 
