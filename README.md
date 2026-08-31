@@ -26,10 +26,11 @@
 
 ## 👨‍💻 Sobre mim
 
-- 📚 Estudante de **Ciência da Computação** (Barão de Mauá, conclusão 2026).
-- 🛠️ Experiência como **freelancer** em criação de sites institucionais e aplicações web interativas.
-- 🌍 Inglês avançado (Cambridge B2).
-- ✨ Focado em criar **soluções escaláveis** e com **UX de impacto**.
+- 📚 Estudante de **Ciência da Computação** (Barão de Mauá, conclusão em 2026).
+- 🛠️ Desenvolvedor Full-Stack especializado no ecossistema **TypeScript (Node.js, React e Next.js)**.
+- 💼 Experiência prática na construção de aplicações web interativas, plataformas B2B e sistemas de gestão orientados a dados.
+- 🌍 Inglês Avançado (Cambridge B2) com forte capacidade de documentação técnica.
+- ✨ Focado em entregar **soluções escaláveis**, código limpo e uma experiência de usuário (**UX**) excepcional.
 
 ---
 
@@ -45,26 +46,27 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
-## 🚀 Projetos Relevantes
+## 🚀 Projetos em Destaque
 
-- **[PromptMarket](https://github.com/diegocp05/prompt-marketplace)**  
-  Marketplace de prompts de IA com **Next.js, TypeScript e PostgreSQL**.  
-  🔑 Autenticação, painel administrativo e integração de pagamentos via Stripe.
+- **[MediBridge (MedFila)](https://github.com/diegocp05/MedFila)**  
+  Sistema completo de **Gestão Hospitalar e Triagem Inteligente** desenvolvido com **React, Node.js e PostgreSQL**.  
+  🏥 Apresenta painel de autoatendimento, fila conectada com **WebSockets** (atualização e áudio em tempo real) para TVs, interface clínica completa para evolução de prontuários e controle de rotas por perfis de acesso (RBAC).
 
-- **[FinanFlow](https://github.com/diegocp05/finanFlow)**  
-  Dashboard financeiro completo com **Next.js, Prisma e PostgreSQL**.  
-  📊 Relatórios interativos, simulações financeiras e previsões baseadas em histórico.
+- **[StockSync](https://github.com/diegocp05/stocksync)**  
+  Plataforma SaaS B2B de **Gestão de Estoque e Compras Automatizadas** baseada em **React e TypeScript**.  
+  📦 Traz dashboard analítico de alta performance, rastreamento de nível mínimo de inventário e geração assíncrona de Ordens de Compra dinâmicas em arquivo **PDF**.
 
 - **[EcoWise](https://eco-wise-h28r6jtfb-diegos-projects-9360246e.vercel.app/)**
   Dashboard ambiental interativo com **Next.js, Node.js e PostgreSQL**.  
-  📊 Dados em tempo real (Clima, Poluição), `💯` Algoritmo EcoScore exclusivo, `🗺️` Mapa Interativo e Rankings.
+  📊 Monitoramento de dados globais em tempo real (Clima, Poluição), incluindo o exclusivo algoritmo *EcoScore*, Mapa Interativo e cruzamento de métricas ambientais.
 
-## 📊 Estatísticas do GitHub
+---
+
+## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/diegocp05">
